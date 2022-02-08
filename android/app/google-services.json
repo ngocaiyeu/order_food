@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544958636654",
+    "project_id": "flutter-4b6e2",
+    "storage_bucket": "flutter-4b6e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544958636654:android:d9a48844df021e23a8fc7f",
+        "android_client_info": {
+          "package_name": "com.example.order_fast_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544958636654-d22h8r4kocqbua97kohh8s6rk5t65bke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeGIG8Sp2Ms1lmHUcBi19WPf9HqbNKHuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544958636654-d22h8r4kocqbua97kohh8s6rk5t65bke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
